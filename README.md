@@ -2,6 +2,7 @@
 
 Generate short, narrated videos from any topic using AI — with free tools like GPT2 (`distilgpt2`), gTTS (Google Text-to-Speech), Pixabay, and MoviePy. Perfect for creating educational, explainer, or story-style content.
 
+> ⭐ If you find this project helpful, please star this repository to show your support!
 ---
 
 ## ✨ Features
