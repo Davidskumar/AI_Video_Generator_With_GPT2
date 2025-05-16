@@ -1,0 +1,7 @@
+gtts
+moviepy
+requests
+Pillow
+python-dotenv
+transformers==4.21.2
+torch
